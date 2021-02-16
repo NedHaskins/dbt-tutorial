@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "causal-bison-305015",
+  "private_key_id": "98353293c2369868ee1dc42b566ea3e3ae2b3556",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwd41Q9g53PxIa\n8DsdVhS7NCCgQ8rC9MBFJz4UNtAiMcF8nfrDGqZVVjifObsz1pUIbC5MziAT8XR3\nyiEUM4/45LceRaWZikcqvbGUld3SgJJXC8o758b69Y/hHqL7O6pDt2MC1zuAoeJe\nMVwIMUi5znOZ/no0M+iZasq9LeMQLV0Q9mE2Cf8+nSQVNk9ncHlVasMyrNVRlFuo\nc57AYfcGFW3hTC1vKBYe/JLDQHS03GqlUq+FHQ5HSRBdBWBAH25sziLQJpZM0jvX\nX4V+HlpOfJ3umk1KvZKRFaV56/GsqWDaPIQqfcm4pMC3hovifqozGXxWTZolEPsK\nN4hh/ASxAgMBAAECggEAAenB4/NO89cAtL8O/QHuZpspkWM6wwNRRE6pGyH+/qfo\nb5fs3Img7QLqyTsgfu7gHb/Cfr2rVlwDRbswwZ3PfUTJgXAC3BfGLr3wu2omhf4z\n1/K+Rgj8vMLFxQyGes/KSEKoNaMst3fJ0viZBVO3dKA625wJKiC38FXajdN+BzJa\nDEj9RdhQAqIQSiNAuAMjfbpFb64d75vYVvr6674rSDKkk4/ITyile9yr2jHRxcBF\nSYKy36SARIswsU4JUkigGDfI8w6bYNEpNSHdc88aLIze+YjqhmNWelGcmzqup2MX\nN+qT2tvCpX9zOSqRwvqVKNAHkGh9ffs7git2dZMwAQKBgQD1oFWbF6rMw5dRN9+8\ndabK94ZhFgIgM4DEkVVlvUzzbmJJOspj+0HxuppI0Ce75v+RSGOw05CG/8iBGRKj\n2yPafWddiYs6THkdS2Gp0UJgKv06df+rTbCipJO+KizZOeYD3BYIsO5G+ZMDzT9l\n5YglJKQuMFGAq8GX9d+q83haAQKBgQC363rrponEELRr7HS2KMlR0LyCjq+HoxwT\ndcOj8ZMdCtiEPSrRlLQB+sHftOGbO73ZQv8SBvzMFRLwuyDPYCNBexCYp4KFduA6\nAT8LLGOjyh/lwclFdZ+hriRAAUZvE+ng3RNJxnH2rExjhDRwMc3vYrPdCJmXO2+j\nbhIZOsHKsQKBgQDn4QYP1Qb0KY13KgU4l+Tu5T/h9XHqTlS4vO7ejhfQE5wLv8mD\nG5bEikHOjVuFYuxPjgQ20XM2TtBNN4tGTsGJKSvkvM1IKxuHUTuQojFEMjE++Fh1\nsnEXCcFEG/Kc27DOYf4XFFjNfhyQ0TmRi1+8mNu5kvnOO9cWCxKtAw3SAQKBgAZ+\ncAamCLM9i8FLxgswgXs8DYvmkdgOME2XmOLPAszBt0dkCYEA6SIwwmutrVGX2Go1\nbWArkv15uQN69/uaf2QufjWFpJwlyGED7j/sv0/nMR0hrIOhVZOV3H3ODbiaUWW5\nKJcwRJHbH49b+aYEfCr5pzQku5eVZ6mzlzwA0RrhAoGBAJc84bCbcPWC8HaZu5ZS\nTTcB8s5mfy+VX3nmAqRm01W+IfesEvfD3RtIrY9zBG4VXZcqVyw+hXU/ZjS/+aPZ\n0k0+b7VD/DLLt0oi9mvyYN1aqFywX/6E/Ubx5OTtc8H+XPqme6YNmQVMrp9F9Yja\n+eozCYf65OBGVTwqc3bDpq2y\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@causal-bison-305015.iam.gserviceaccount.com",
+  "client_id": "108112333346575528931",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40causal-bison-305015.iam.gserviceaccount.com"
+}
